@@ -2,4 +2,4 @@
 
 The goal of this study is to use image processing techniques to extract the latent features of a collection of artworks from the MoMA with hopes to determine which characteristics of the work can be classified by latent features (e.g. Nationality, Medium, Time Period).
 
-![](https://github.com/nabeelhthussain/MoMA-Artwork-Classification/master/projectGraphic.png)
+![](projectGraphic.png)
