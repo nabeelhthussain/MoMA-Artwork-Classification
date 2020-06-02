@@ -4,7 +4,7 @@ The goal of this study is to use image processing techniques to extract the late
 
 ![](projectGraphic.png)
 
-# Instructions to use
+## Instructions to use
 
 Pull the project code and CSV file to your local machine.
 Run the code using MATLAB (development done using R2019a)
